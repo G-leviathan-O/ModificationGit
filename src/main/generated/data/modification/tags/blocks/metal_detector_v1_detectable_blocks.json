@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#modification:tin_ores",
+    "#minecraft:redstone_ores",
+    "#minecraft:gold_ores",
+    "#minecraft:iron_ores",
+    "#minecraft:copper_ores",
+    "#minecraft:coal_ores",
+    "minecraft:raw_iron_block",
+    "minecraft:raw_copper_block"
+  ]
+}

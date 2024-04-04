@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "C": {
+      "item": "minecraft:sculk"
+    },
+    "M": {
+      "item": "modification:metal_detector"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:sculk_sensor"
+    }
+  },
+  "pattern": [
+    " NS",
+    "CMN",
+    "B  "
+  ],
+  "result": {
+    "item": "modification:metal_detector_v2"
+  },
+  "show_notification": true
+}

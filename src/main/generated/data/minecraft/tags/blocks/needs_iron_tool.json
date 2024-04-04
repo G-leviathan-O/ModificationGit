@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#modification:uranium_ores",
+    "modification:uranium_raw_block",
+    "modification:uranium_block"
+  ]
+}

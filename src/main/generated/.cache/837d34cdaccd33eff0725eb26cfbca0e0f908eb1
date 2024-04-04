@@ -1,0 +1,11 @@
+// 1.20.2	2024-04-02T09:25:33.3150583	Modification/Block Loot Tables
+c1ad821f94a3b0b6e95ef1598fe3b2154592ba5f data\modification\loot_tables\blocks\tin_ore.json
+424a4722620c3d3ea486fae59a788967c7fc30b7 data\modification\loot_tables\blocks\uranium_raw_block.json
+fb52944bddf4084c2b310de70952b04ae1e941e7 data\modification\loot_tables\blocks\tin_raw_block.json
+ec6fee3dcc5fe55b52aaf2f51b7161d5de379792 data\modification\loot_tables\blocks\uranium_ore.json
+d89df27a3e081828e7710898b33985468be12e70 data\modification\loot_tables\blocks\salt_block.json
+d4041477ce91a40d8f813e38de93735b38322c42 data\modification\loot_tables\blocks\uranium_block.json
+d4c7002642c6696d2d77d1630e8cec20b83b42be data\modification\loot_tables\blocks\uranium_deepslate_ore.json
+15b055e29451809d68ed342a5a635f45619f9906 data\modification\loot_tables\blocks\sulfur_ore.json
+e9214a9ebb26183dfe093bd0052a3511036efe3b data\modification\loot_tables\blocks\tin_block.json
+9154f0d6e58b5deca84461bb281d7aa1ef99b421 data\modification\loot_tables\blocks\tin_deepslate_ore.json

@@ -1,0 +1,10 @@
+// 1.20.2	2024-04-02T09:25:33.3130653	Modification/Tags for minecraft:block
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+fc552d0966ee18f358bf57d791c045b6f0fdf635 data\modification\tags\blocks\metal_detector_v2_detectable_blocks.json
+7bb84069673d5234c9c5bb767f7b43b1df80a7a2 data\minecraft\tags\blocks\needs_stone_tool.json
+7ad3cf6e42363d84ec4b66b677afeb69cd35164b data\modification\tags\blocks\uranium_ores.json
+35e33a2c43fb42d8abaa0685105ebd9c12ce18a1 data\minecraft\tags\blocks\needs_iron_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\fabric\tags\blocks\needs_tool_level_4.json
+8bee2722e445093a2885a493ab0ace09809572af data\minecraft\tags\blocks\mineable\pickaxe.json
+207a59b090854747e3b870f7fe44590637cb9a3e data\modification\tags\blocks\metal_detector_v1_detectable_blocks.json
+cc2be8e984d28877ad3a8771a99033da266f9c16 data\modification\tags\blocks\tin_ores.json

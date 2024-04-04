@@ -1,0 +1,36 @@
+{
+  "item.modification.tin_raw": "Raw tin",
+  "item.modification.tin_ingot": "Ingot tin",
+  "item.modification.tin_nugget": "Nugget tin",
+  "item.modification.uranium_raw": "Raw uranium",
+  "item.modification.uranium_ingot": "Ingot uranium",
+  "item.modification.uranium_nugget": "Nugget uranium",
+  "item.modification.sulfur": "Sulfur",
+  "item.modification.coal_briquette": "Coal briquette",
+
+  "block.modification.tin_ore": "Tin ore",
+  "block.modification.tin_deepslate_ore": "Deepslate tin ore",
+  "block.modification.tin_raw_block": "Block raw tin",
+  "block.modification.tin_block": "Block tin",
+  "block.modification.uranium_ore": "Uranium ore",
+  "block.modification.uranium_deepslate_ore": "Deepslate uranium ore",
+  "block.modification.uranium_raw_block": "Block raw uranium",
+  "block.modification.uranium_block": "Block uranium",
+  "block.modification.sulfur_ore": "Sulfur ore",
+  "block.modification.salt_block": "Salt block",
+
+  "item.modification.metal_detector": "Metal detector",
+  "item.modification.metal_detector_v2": "Ultimate metal detector",
+  "item.modification.uranium_arrow": "Uranium arrow",
+  "item.modification.tin": "Tin",
+  "item.modification.stew": "Stew",
+  "item.modification.salt": "Salt",
+
+  "tooltip.modification.metal_detector.tooltip": "Finds metals under the block used on",
+  "tooltip.modification.metal_detector_v2.tooltip": "Finds minerals in a small radius under the block on which it is used",
+
+  "block.modification.sound_block": "Sound block",
+
+
+  "itemGroup.modification.modification_group": "Modification"
+}

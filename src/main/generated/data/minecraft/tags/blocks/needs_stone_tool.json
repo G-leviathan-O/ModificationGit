@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#modification:tin_ores",
+    "modification:tin_raw_block",
+    "modification:tin_block",
+    "modification:sulfur_ore"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#modification:tin_ores",
+    "#modification:uranium_ores",
+    "modification:tin_raw_block",
+    "modification:tin_block",
+    "modification:uranium_raw_block",
+    "modification:uranium_block",
+    "modification:sulfur_ore",
+    "modification:salt_block"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "item.modification.tin_raw": "Рудное олово",
+  "item.modification.tin_ingot": "Оловянный слиток",
+  "item.modification.tin_nugget": "Кусочек олова",
+  "item.modification.uranium_raw": "Рудный уран",
+  "item.modification.uranium_ingot": "Урановый слиток",
+  "item.modification.uranium_nugget": "Кусочек урана",
+  "item.modification.sulfur": "Сера",
+  "item.modification.coal_briquette": "Угольный брикет",
+
+  "block.modification.tin_ore": "Оловянная руда",
+  "block.modification.tin_deepslate_ore": "Оловоносный глубинный сланец",
+  "block.modification.tin_raw_block": "Блок рудного олова",
+  "block.modification.tin_block": "Оловянный блок",
+  "block.modification.uranium_ore": "Урановая руда",
+  "block.modification.uranium_deepslate_ore": "Ураноносный глубинный сланец",
+  "block.modification.uranium_raw_block": "Блок рудного урана",
+  "block.modification.uranium_block": "Урановый блок",
+  "block.modification.sulfur_ore": "Серная руда",
+  "block.modification.salt_block": "Солевой блок",
+
+  "item.modification.metal_detector": "Металлоискатель",
+  "item.modification.metal_detector_v2": "Совершенный металлоискатель",
+  "item.modification.uranium_arrow": "Урановая стрела",
+  "item.modification.tin": "Банка",
+  "item.modification.stew": "Тушёнка",
+  "item.modification.salt": "Соль",
+
+  "tooltip.modification.metal_detector.tooltip": "Находит металлы под блоком, на котором использован",
+  "tooltip.modification.metal_detector_v2.tooltip": "Находит полезные ископаемые в небольшом радиусе под блоком, на котором использован",
+
+  "block.modification.sound_block": "Звуковой блок",
+
+
+  "itemGroup.modification.modification_group": "Модификация"
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "modification:uranium_ore",
+    "modification:uranium_deepslate_ore"
+  ]
+}

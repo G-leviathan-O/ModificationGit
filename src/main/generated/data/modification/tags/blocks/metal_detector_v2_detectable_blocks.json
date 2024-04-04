@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#modification:metal_detector_v1_detectable_blocks",
+    "#modification:uranium_ores",
+    "#minecraft:lapis_ores",
+    "#minecraft:emerald_ores",
+    "#minecraft:diamond_ores",
+    "modification:sulfur_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:ancient_debris",
+    "minecraft:budding_amethyst"
+  ]
+}

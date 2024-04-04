@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "U": {
+      "item": "modification:uranium_ingot"
+    }
+  },
+  "pattern": [
+    " U ",
+    " S ",
+    " F "
+  ],
+  "result": {
+    "count": 4,
+    "item": "modification:uranium_arrow"
+  },
+  "show_notification": true
+}
